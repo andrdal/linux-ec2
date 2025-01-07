@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "environment_name" {
   type    = string
-  default = "Dev"
+  default = "Sandbox"
 }
 
 variable "vpc_cidr" {
